@@ -1,1 +1,1 @@
-Readme for atlas scripting
+readme for atlas scripting
